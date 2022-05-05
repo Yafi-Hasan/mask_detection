@@ -1,7 +1,7 @@
 # Mask-Usage Detection
 
 ## Description
-The goal of this project is to classify medical-mask-usage in three different classes.
+The goal of this project is to classify face-mask-usage in three different classes.
 - Not wearing a mask
 - Properly wearing a mask
 - Not properly wearing a mask (only covered the mouth, not the nose)
