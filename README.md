@@ -6,7 +6,7 @@ The goal of this project is to classify medical-mask-usage in three different cl
 - Properly wearing a mask
 - Not properly wearing a mask (only covered the mouth, not the nose)
 
-The classification algorithm used in this project is customize MobileNet-V2 computer vision, machine learning, architecture. 2340 images used for training and testing process (780 images for each class). 85% images used for training and 15% images used for testing. The images used to train the model comes from three different datasets. Those datasets are:
+The classification algorithm used in this project is based on customized MobileNet-V2 computer vision, machine learning, architecture. 2340 images used for training and testing process (780 images for each class). 85% images used for training and 15% images used for testing. The images used to train the model comes from three different datasets. Those datasets are:
 - MaskedFace-Net Dataset (Cabani et al., 2021)
 - Medical Mask Dataset (Humans in the loop, 2021)
 - Real-Time-Medical-Mask-Detection Dataset (Nagrath et al., 2020)
