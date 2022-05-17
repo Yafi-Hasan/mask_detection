@@ -11,8 +11,6 @@ The classification algorithm used in this project is based on customized MobileN
 - Medical Mask Dataset (Humans in the loop, 2021)
 - Real-Time-Medical-Mask-Detection Dataset (Nagrath et al., 2020)
 
-The new customized dataset created from those datasets can be accessed in https://drive.google.com/drive/folders/1zZV55gzvXXtr3Fu8QTMkJWD-ZOWasbHW?usp=sharing
-
 
 ## Dataset Reference
 - Cabani, A., Hammoudi, K., & Benhabiles, H. (2021). MaskedFace-Net-A Dataset of Correctly/Incorrectly Masked Face Images in The Context of Covid-19. Smart Health, 19(January).
